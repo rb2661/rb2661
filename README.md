@@ -7,12 +7,18 @@ I'm a Data Analyst located in NYC. I have 5+ years of experience in Data Analyti
 </p>
 
 <p align="center">
+  Social:  
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rory-butler-410821a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center">
   </a>
 </p>
 
----------------------------------------------------------
+<p align="center">
+  Programming Languages & Skills:
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" align="center">
